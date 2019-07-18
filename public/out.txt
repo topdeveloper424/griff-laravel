@@ -1,0 +1,2413 @@
+{
+    "abbreviatedAddress": null,
+    "address": {
+        "city": "Kew Gardens",
+        "community": null,
+        "neighborhood": "Kew Gardens",
+        "state": "NY",
+        "streetAddress": "8462 Austin St APT A5",
+        "subdivision": null,
+        "unitNumber": "A5",
+        "unitPrefix": "Apt",
+        "zipcode": "11415"
+    },
+    "apartmentsForRentInZipcodeSearchUrl": {
+        "path": "/queens-new-york-ny-11415/apartments/"
+    },
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "boroughId": 270915,
+    "boroughSearchUrl": {
+        "path": "/queens-new-york-ny/",
+        "text": "Homes in Queens"
+    },
+    "brokerageName": "Douglas Elliman",
+    "buildingPermits": null,
+    "city": "Kew Gardens",
+    "citySearchUrl": {
+        "path": "/new-york-ny/",
+        "text": "Homes in New York"
+    },
+    "comingSoonOnMarketDate": null,
+    "communityUrl": null,
+    "comps": [
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8451 Beverly Rd APT 6O",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8451-Beverly-Rd-APT-6O-Kew-Gardens-NY-11415/79525943_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.707556,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 1250,
+            "longitude": -73.829503,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/IS2z7oj36emq261000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 445000,
+            "state": "NY",
+            "zpid": 79525943
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8300 Talbot St APT 6G",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8300-Talbot-St-APT-6G-Kew-Gardens-NY-11415/79728609_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70962,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 1300,
+            "longitude": -73.828982,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISa9l76ovq8jgr0000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 460000,
+            "state": "NY",
+            "zpid": 79728609
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8340 Austin St APT 3E",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8340-Austin-St-APT-3E-Kew-Gardens-NY-11415/245479312_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.708204,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 900,
+            "longitude": -73.828804,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISmauoij19bxbh0000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 390000,
+            "state": "NY",
+            "zpid": 245479312
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8340 Austin St APT 3V",
+                "zipcode": "11415"
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8340-Austin-St-APT-3V-Kew-Gardens-NY-11415/219860474_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.708204,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 1100,
+            "longitude": -73.828804,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISyfutyjjqslow1000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 399000,
+            "state": "NY",
+            "zpid": 219860474
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8470 129th St APT 5L",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8470-129th-St-APT-5L-Kew-Gardens-NY-11415/81964580_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.705,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 960,
+            "longitude": -73.824133,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISqtr6vra7fomj1000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 319000,
+            "state": "NY",
+            "zpid": 81964580
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8374 Talbot St APT 2F",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 1,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8374-Talbot-St-APT-2F-Kew-Gardens-NY-11415/79737868_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.708279,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": true,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 800,
+            "longitude": -73.827628,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISy3x7ejesn63b1000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 234900,
+            "state": "NY",
+            "zpid": 79737868
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "123-35 82nd Rd # 8N",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/123-35-82nd-Rd-8N-Kew-Gardens-NY-11415/124153320_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.712097,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": null,
+            "longitude": -73.827551,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISyzt6k7t1x5rz0000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 399000,
+            "state": "NY",
+            "zpid": 124153320
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8470 129th St APT LN",
+                "zipcode": "11415"
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8470-129th-St-APT-LN-Kew-Gardens-NY-11415/2085219167_zpid/",
+            "homeStatus": "FOR_SALE",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.705001,
+            "listing_sub_type": {
+                "is_FSBA": true,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": null,
+            "longitude": -73.824203,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISekgi5hte1m9z0000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 339000,
+            "state": "NY",
+            "zpid": 2085219167
+        }
+    ],
+    "contingentListingType": null,
+    "country": "USA",
+    "countyFIPS": "36081",
+    "currency": "USD",
+    "datePriceChanged": null,
+    "description": "Contact the Listing Agents for a showing. Beautiful renovated duplex condo in the Kew Gardens Townhouse Condominium. With its award wining design, the Kew Gardens Townhouse Condo offers this lovely duplex with its own outdoor patio and fenced-in yard. 1st floor has a renovated kitchen, stainless steel appliances, exquisite quartz countertops. The spacious living room has glass sliding doors to the patio and yard. The 2nd floor has a huge bedroom and a renovated bathroom. Ample closets. Parking available for rent. Pet friendly. Near all.",
+    "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISq9slfjar6k8i1000000000.jpg",
+    "enhancedBrokerImageUrl": "https://photos.zillowstatic.com/l_c/IShv7e6emlcjp90000000000.jpg",
+    "favoriteCount": 9,
+    "festimate": 380802,
+    "hasPublicVideo": false,
+    "hdpUrl": "/homedetails/8462-Austin-St-APT-A5-Kew-Gardens-NY-11415/32117220_zpid/",
+    "hideZestimate": false,
+    "highlights": null,
+    "homeFacts": {
+        "aboveFactsAndFeaturesCategories": null,
+        "atAGlanceFacts": [
+            {
+                "factLabel": "Type",
+                "factValue": "Condo"
+            },
+            {
+                "factLabel": "Year Built",
+                "factValue": "1982"
+            },
+            {
+                "factLabel": "Heating",
+                "factValue": "Oil"
+            },
+            {
+                "factLabel": "Cooling",
+                "factValue": null
+            },
+            {
+                "factLabel": "Parking",
+                "factValue": "No Data"
+            },
+            {
+                "factLabel": "HOA",
+                "factValue": "$344/month"
+            },
+            {
+                "factLabel": "Days on Zillow",
+                "factValue": "20 Days"
+            },
+            {
+                "factLabel": "Price/sqft",
+                "factValue": "$547"
+            },
+            {
+                "factLabel": "Saves",
+                "factValue": "9"
+            }
+        ],
+        "categoryDetails": [
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Beds",
+                                "factValue": "1"
+                            }
+                        ],
+                        "categoryName": "Bedrooms"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Heating",
+                                "factValue": "Oil"
+                            }
+                        ],
+                        "categoryName": "Heating and Cooling"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Appliances included",
+                                "factValue": "Range / Oven, Refrigerator"
+                            }
+                        ],
+                        "categoryName": "Appliances"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Floor size",
+                                "factValue": "850 sqft"
+                            },
+                            {
+                                "factLabel": "Flooring",
+                                "factValue": "Hardwood"
+                            }
+                        ],
+                        "categoryName": "Flooring"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Room count",
+                                "factValue": "3"
+                            }
+                        ],
+                        "categoryName": "Other Interior Features"
+                    }
+                ],
+                "categoryGroupName": "Interior Features"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Unit count",
+                                "factValue": "20"
+                            }
+                        ],
+                        "categoryName": "Size"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": null,
+                                "factValue": "Barbecue Area"
+                            }
+                        ],
+                        "categoryName": "Spaces"
+                    }
+                ],
+                "categoryGroupName": "Building"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Structure type",
+                                "factValue": "Other"
+                            },
+                            {
+                                "factLabel": null,
+                                "factValue": "Condo"
+                            }
+                        ],
+                        "categoryName": "Type and Style"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Exterior material",
+                                "factValue": "Brick"
+                            }
+                        ],
+                        "categoryName": "Materials"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": null,
+                                "factValue": "Built in 1982"
+                            }
+                        ],
+                        "categoryName": "Dates"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Stories",
+                                "factValue": "3"
+                            }
+                        ],
+                        "categoryName": "Other Construction Features"
+                    }
+                ],
+                "categoryGroupName": "Construction"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": null,
+                                "factValue": "Patio"
+                            }
+                        ],
+                        "categoryName": "Patio"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": null,
+                                "factValue": "Fenced Yard"
+                            },
+                            {
+                                "factLabel": null,
+                                "factValue": "Garden"
+                            }
+                        ],
+                        "categoryName": "Yard"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Lot",
+                                "factValue": "0.46 acres"
+                            },
+                            {
+                                "factLabel": "Lot width",
+                                "factValue": "114 ft"
+                            },
+                            {
+                                "factLabel": "Lot depth",
+                                "factValue": "176 ft"
+                            }
+                        ],
+                        "categoryName": "Lot"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Parcel #",
+                                "factValue": "092451005"
+                            }
+                        ],
+                        "categoryName": "Other Exterior Features"
+                    }
+                ],
+                "categoryGroupName": "Exterior Features"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "School district",
+                                "factValue": "Other"
+                            }
+                        ],
+                        "categoryName": "Schools"
+                    },
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": null,
+                                "factValue": "Near Transportation"
+                            }
+                        ],
+                        "categoryName": "Transportation"
+                    }
+                ],
+                "categoryGroupName": "Community and Neighborhood"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "HOA Fee",
+                                "factValue": "$344/mo"
+                            }
+                        ],
+                        "categoryName": "HOA"
+                    }
+                ],
+                "categoryGroupName": "Finance"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "MLS #",
+                                "factValue": "P1342434"
+                            }
+                        ],
+                        "categoryName": ""
+                    }
+                ],
+                "categoryGroupName": "Sources"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Last sold",
+                                "factValue": "Apr 2017 for $310,000"
+                            },
+                            {
+                                "factLabel": "Price/sqft",
+                                "factValue": "$547"
+                            },
+                            {
+                                "factLabel": "Property Features",
+                                "factValue": "Close to Bus Stop, Close to School, Close to Shopping"
+                            },
+                            {
+                                "factLabel": "Unit Features",
+                                "factValue": "Other-See Remarks"
+                            },
+                            {
+                                "factLabel": "Rental Allowed",
+                                "factValue": "1"
+                            }
+                        ],
+                        "categoryName": ""
+                    }
+                ],
+                "categoryGroupName": "Other"
+            },
+            {
+                "categories": [
+                    {
+                        "categoryFacts": [
+                            {
+                                "factLabel": "Days on Zillow",
+                                "factValue": "20"
+                            },
+                            {
+                                "factLabel": "Views since listing",
+                                "factValue": "438"
+                            },
+                            {
+                                "factLabel": null,
+                                "factValue": "9 shoppers saved this home"
+                            }
+                        ],
+                        "categoryName": ""
+                    }
+                ],
+                "categoryGroupName": "Activity On Zillow"
+            }
+        ]
+    },
+    "homeStatus": "FOR_SALE",
+    "homeType": "CONDO",
+    "homeValues": {
+        "parentRegion": {
+            "zhvi": {
+                "value": 442000,
+                "yoy": 4.491725768321513
+            }
+        },
+        "region": {
+            "buyerSellerIndex": {
+                "value": 3.36633663366337
+            },
+            "link": "/new-york-ny/home-values/",
+            "shortName": "New York",
+            "zhvi": {
+                "value": 681600,
+                "yoy": 3.7600852488963312
+            }
+        }
+    },
+    "housesForRentInZipcodeSearchUrl": {
+        "path": "/queens-new-york-ny-11415/rent-houses/"
+    },
+    "isCurrentSignedInAgentResponsible": false,
+    "isFeatured": false,
+    "isListedByOwner": false,
+    "isListingClaimedByCurrentSignedInUser": false,
+    "isPreforeclosureAuction": false,
+    "isPremierBuilder": false,
+    "isUndisclosedAddress": false,
+    "isZillowOwned": false,
+    "latitude": 40.70686,
+    "listingCollectionConfig": {
+        "superTrafficOptimized": false
+    },
+    "listingProvider": {
+        "logos": [
+            {
+                "src": "https://photos.zillowstatic.com/l_c/IShv7e6emlcjp90000000000.jpg"
+            }
+        ]
+    },
+    "listing_sub_type": {
+        "is_FSBA": true,
+        "is_FSBO": false,
+        "is_bankOwned": false,
+        "is_comingSoon": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_newHome": false
+    },
+    "livingArea": 850,
+    "longitude": -73.8269,
+    "lotSize": 20116,
+    "nearbyCities": null,
+    "nearbyHomes": [
+        {
+            "address": {
+                "city": "Jamaica",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT A3",
+                "zipcode": "11415"
+            },
+            "bathrooms": null,
+            "bedrooms": null,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-A3-Jamaica-NY-11415/32117218_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 850,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 450277,
+            "state": "NY",
+            "zpid": 32117218
+        },
+        {
+            "address": {
+                "city": "Kew Gardens",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT B3",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-B3-Kew-Gardens-NY-11415/32117224_zpid/",
+            "homeStatus": "SOLD",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 450,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISeovs2j4t42141000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 278000,
+            "state": "NY",
+            "zpid": 32117224
+        },
+        {
+            "address": {
+                "city": "Kew gardens",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT A1",
+                "zipcode": "11415"
+            },
+            "bathrooms": null,
+            "bedrooms": 0,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-A1-Kew-Gardens-NY-11415/143559217_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 920,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 459842,
+            "state": "NY",
+            "zpid": 143559217
+        },
+        {
+            "address": {
+                "city": "Kew gardens",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT A1",
+                "zipcode": "11415"
+            },
+            "bathrooms": null,
+            "bedrooms": null,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-A1-Kew-Gardens-NY-11415/143559216_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 920,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 459842,
+            "state": "NY",
+            "zpid": 143559216
+        },
+        {
+            "address": {
+                "city": "Jamaica",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT A4",
+                "zipcode": "11415"
+            },
+            "bathrooms": null,
+            "bedrooms": null,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-A4-Jamaica-NY-11415/32117219_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 790,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 436937,
+            "state": "NY",
+            "zpid": 32117219
+        },
+        {
+            "address": {
+                "city": "Jamaica",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT A6",
+                "zipcode": "11415"
+            },
+            "bathrooms": 2,
+            "bedrooms": 2,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-A6-Jamaica-NY-11415/32117221_zpid/",
+            "homeStatus": "SOLD",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 1100,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 439000,
+            "state": "NY",
+            "zpid": 32117221
+        },
+        {
+            "address": {
+                "city": "Jamaica",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT B1",
+                "zipcode": "11415"
+            },
+            "bathrooms": null,
+            "bedrooms": null,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-B1-Jamaica-NY-11415/32117222_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "CONDO",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 740,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.706860,-73.826900&zoom=17&size=316x234&maptype=satellite&key=AIzaSyB27zV3MDy6oKhOscB5M44-CVmbisA-7zA&&signature=RO6SpphazFgnhU74KBb9RWgYJ_Y="
+                }
+            ],
+            "newConstructionType": null,
+            "price": 416986,
+            "state": "NY",
+            "zpid": 32117222
+        },
+        {
+            "address": {
+                "city": "Jamaica",
+                "state": "NY",
+                "streetAddress": "8462 Austin St APT B2",
+                "zipcode": "11415"
+            },
+            "bathrooms": 1,
+            "bedrooms": 0,
+            "currency": "USD",
+            "hdpUrl": "/homedetails/8462-Austin-St-APT-B2-Jamaica-NY-11415/32117223_zpid/",
+            "homeStatus": "OTHER",
+            "homeType": "MULTI_FAMILY",
+            "isPremierBuilder": false,
+            "isZillowOwned": false,
+            "latitude": 40.70686,
+            "listing_sub_type": {
+                "is_FSBA": false,
+                "is_FSBO": false,
+                "is_bankOwned": false,
+                "is_comingSoon": false,
+                "is_forAuction": false,
+                "is_foreclosure": false,
+                "is_newHome": false
+            },
+            "livingArea": 450,
+            "longitude": -73.8269,
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/p_c/ISpllgkav9esg71000000000.jpg"
+                }
+            ],
+            "newConstructionType": null,
+            "price": 406627,
+            "state": "NY",
+            "zpid": 32117223
+        }
+    ],
+    "nearbyNeighborhoods": [
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Astoria",
+                "state": "NY"
+            },
+            "name": "Astoria",
+            "regionUrl": {
+                "path": "/astoria-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Corona",
+                "state": "NY"
+            },
+            "name": "Corona",
+            "regionUrl": {
+                "path": "/corona-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Elmhurst",
+                "state": "NY"
+            },
+            "name": "Elmhurst",
+            "regionUrl": {
+                "path": "/elmhurst-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Far Rockaway",
+                "state": "NY"
+            },
+            "name": "Far Rockaway",
+            "regionUrl": {
+                "path": "/far-rockaway-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Flushing",
+                "state": "NY"
+            },
+            "name": "Flushing",
+            "regionUrl": {
+                "path": "/flushing-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Jamaica",
+                "state": "NY"
+            },
+            "name": "Jamaica",
+            "regionUrl": {
+                "path": "/jamaica-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Murray Hill",
+                "state": "NY"
+            },
+            "name": "Murray Hill",
+            "regionUrl": {
+                "path": "/murray-hill-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Sheepshead Bay",
+                "state": "NY"
+            },
+            "name": "Sheepshead Bay",
+            "regionUrl": {
+                "path": "/sheepshead-bay-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "South Ozone Park",
+                "state": "NY"
+            },
+            "name": "South Ozone Park",
+            "regionUrl": {
+                "path": "/south-ozone-park-queens-new-york-ny/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "neighborhood": "Upper West Side",
+                "state": "NY"
+            },
+            "name": "Upper West Side",
+            "regionUrl": {
+                "path": "/upper-west-side-new-york-ny/"
+            }
+        }
+    ],
+    "nearbyZipcodes": [
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11354"
+            },
+            "name": "11354",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11354/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11355"
+            },
+            "name": "11355",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11355/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11368"
+            },
+            "name": "11368",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11368/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11372"
+            },
+            "name": "11372",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11372/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11373"
+            },
+            "name": "11373",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11373/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11374"
+            },
+            "name": "11374",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11374/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11375"
+            },
+            "name": "11375",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11375/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11377"
+            },
+            "name": "11377",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11377/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11385"
+            },
+            "name": "11385",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11385/"
+            }
+        },
+        {
+            "body": {
+                "city": "New York",
+                "state": "NY",
+                "zipcode": "11434"
+            },
+            "name": "11434",
+            "regionUrl": {
+                "path": "/queens-new-york-ny-11434/"
+            }
+        }
+    ],
+    "neighborhoodSearchUrl": {
+        "path": "/kew-gardens-queens-new-york-ny/"
+    },
+    "newConstructionType": null,
+    "openHouseSchedule": [],
+    "pageViewCount": 442,
+    "parcelId": "092451005",
+    "parentRegion": {
+        "name": "Kew Gardens"
+    },
+    "photoCount": 12,
+    "price": 465000,
+    "priceChange": null,
+    "primaryPublicVideo": null,
+    "providerListingID": "1399011",
+    "rentZestimate": 1900,
+    "resoFacts": {
+        "aboveGradeFinishedArea": null,
+        "accessibilityFeatures": null,
+        "additionalParcelsDescription": null,
+        "appliances": [
+            "Range / Oven",
+            "Refrigerator"
+        ],
+        "architecturalStyle": null,
+        "associationAmenities": null,
+        "associationFee": "344/mo",
+        "associationFee2": null,
+        "associationFeeIncludes": null,
+        "associationName": null,
+        "associationName2": null,
+        "associationPhone": null,
+        "associationPhone2": null,
+        "basement": null,
+        "bathrooms": 1,
+        "bathroomsFull": 1,
+        "bathroomsHalf": null,
+        "bathroomsOneQuarter": null,
+        "bathroomsPartial": null,
+        "bathroomsThreeQuarter": null,
+        "bedrooms": 1,
+        "belowGradeFinishedArea": null,
+        "builderModel": null,
+        "builderName": null,
+        "buildingArea": null,
+        "buildingAreaSource": null,
+        "buildingFeatures": null,
+        "buildingName": null,
+        "canRaiseHorses": false,
+        "carportSpaces": null,
+        "cityRegion": "Kew Gardens",
+        "commonWalls": null,
+        "communityFeatures": null,
+        "constructionMaterials": null,
+        "cooling": null,
+        "coveredSpaces": null,
+        "developmentStatus": null,
+        "electric": null,
+        "elementarySchool": null,
+        "elementarySchoolDistrict": "Other",
+        "entryLevel": null,
+        "entryLocation": null,
+        "exteriorFeatures": [
+            "Brick"
+        ],
+        "fencing": null,
+        "fireplaceFeatures": null,
+        "fireplaces": null,
+        "flooring": [
+            "Hardwood"
+        ],
+        "foundationDetails": null,
+        "frontageLength": null,
+        "frontageType": null,
+        "furnished": false,
+        "garageSpaces": null,
+        "gas": null,
+        "greenBuildingVerificationType": null,
+        "greenEnergyEfficient": null,
+        "greenIndoorAirQuality": null,
+        "greenSustainability": null,
+        "greenWaterConservation": null,
+        "hasAdditionalParcels": false,
+        "hasAssociation": true,
+        "hasAttachedGarage": false,
+        "hasAttachedProperty": false,
+        "hasCarport": false,
+        "hasCooling": false,
+        "hasElectricOnProperty": null,
+        "hasFireplace": false,
+        "hasGarage": false,
+        "hasHeating": false,
+        "hasHomeWarranty": false,
+        "hasLandLease": false,
+        "hasOpenParking": false,
+        "hasPetsAllowed": true,
+        "hasPrivatePool": false,
+        "hasRentControl": false,
+        "hasSpa": false,
+        "hasView": false,
+        "hasWaterfrontView": false,
+        "heating": null,
+        "highSchool": null,
+        "highSchoolDistrict": "Other",
+        "homeType": "Condo",
+        "isNewConstruction": false,
+        "isSeniorCommunity": false,
+        "landLeaseAmount": null,
+        "laundryFeatures": null,
+        "levels": null,
+        "listingId": "P1342434",
+        "livingArea": "850 sqft",
+        "lotSize": "0.46 acres",
+        "lotSizeDimensions": null,
+        "mainLevelBathrooms": null,
+        "middleOrJuniorSchool": null,
+        "middleOrJuniorSchoolDistrict": "Other",
+        "numberOfUnitsInCommunity": null,
+        "numberOfUnitsVacant": null,
+        "onMarketDate": 1554757320000,
+        "openParkingSpaces": null,
+        "otherFacts": [
+            {
+                "name": "Property Features",
+                "value": "Close to Bus Stop, Close to School, Close to Shopping"
+            },
+            {
+                "name": "Unit Features",
+                "value": "Other-See Remarks"
+            },
+            {
+                "name": "Rental Allowed",
+                "value": "1"
+            }
+        ],
+        "otherParking": null,
+        "otherStructures": null,
+        "parcelNumber": "092451005",
+        "parking": null,
+        "parkingFeatures": null,
+        "patioAndPorchFeatures": null,
+        "propertyCondition": null,
+        "roofType": null,
+        "rooms": [],
+        "securityFeatures": null,
+        "sewer": null,
+        "spaFeatures": null,
+        "stories": 3,
+        "storiesTotal": null,
+        "structureType": "Other",
+        "taxAnnualAmount": 3516,
+        "taxAssessedValue": 69980,
+        "topography": null,
+        "utilities": null,
+        "vegetation": null,
+        "view": null,
+        "virtualTour": "",
+        "waterSources": null,
+        "waterfrontFeatures": null,
+        "windowFeatures": null,
+        "woodedArea": null,
+        "yearBuilt": 1982,
+        "yearBuiltEffective": null,
+        "zoning": null,
+        "zoningDescription": null
+    },
+    "responsivePhotos": [
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISq9slfjar6k8i1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISq9slfjar6k8i1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISq9slfjar6k8i1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISq9slfjar6k8i1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISq9slfjar6k8i1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISq9slfjar6k8i1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISq9slfjar6k8i1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISq9slfjar6k8i1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISq9slfjar6k8i1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISq1y4c3wuf1ui1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISq1y4c3wuf1ui1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISus5spqdxg1vi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISus5spqdxg1vi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISus5spqdxg1vi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISus5spqdxg1vi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISus5spqdxg1vi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISus5spqdxg1vi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISus5spqdxg1vi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISus5spqdxg1vi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISus5spqdxg1vi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISatorz9kz3cgi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISatorz9kz3cgi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISatorz9kz3cgi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISatorz9kz3cgi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISatorz9kz3cgi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISatorz9kz3cgi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISatorz9kz3cgi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISatorz9kz3cgi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISatorz9kz3cgi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISmm3g7k9p84vi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISmm3g7k9p84vi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/IS2nmfh3grvegi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/IS2nmfh3grvegi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/IS2nmfh3grvegi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/IS2nmfh3grvegi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/IS2nmfh3grvegi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/IS2nmfh3grvegi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/IS2nmfh3grvegi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/IS2nmfh3grvegi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/IS2nmfh3grvegi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISeg14pd5h07vi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISeg14pd5h07vi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISeg14pd5h07vi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISeg14pd5h07vi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISeg14pd5h07vi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISeg14pd5h07vi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISeg14pd5h07vi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISeg14pd5h07vi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISeg14pd5h07vi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISugk3zwbjnhgi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISugk3zwbjnhgi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/IS6azr6719s9vi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/IS6azr6719s9vi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/IS6azr6719s9vi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/IS6azr6719s9vi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/IS6azr6719s9vi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/IS6azr6719s9vi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/IS6azr6719s9vi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/IS6azr6719s9vi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/IS6azr6719s9vi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/IS6azr6719s9vi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/IS6azr6719s9vi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/IS6azr6719s9vi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/IS6azr6719s9vi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/IS6azr6719s9vi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/IS6azr6719s9vi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/IS6azr6719s9vi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISmairgq7bfkgi1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISmairgq7bfkgi1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISmairgq7bfkgi1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISmairgq7bfkgi1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISmairgq7bfkgi1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISmairgq7bfkgi1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISmairgq7bfkgi1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISmairgq7bfkgi1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISmairgq7bfkgi1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISyzhlfstk4eph1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISyzhlfstk4eph1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISyzhlfstk4eph1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISyzhlfstk4eph1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISyzhlfstk4eph1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISyzhlfstk4eph1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISyzhlfstk4eph1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISyzhlfstk4eph1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISyzhlfstk4eph1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        },
+        {
+            "caption": "",
+            "mixedSources": {
+                "jpeg": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISqtf9xlpcwgph1000000000.jpg",
+                        "width": 1536
+                    }
+                ],
+                "webp": [
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_192/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 192
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_384/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 384
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_576/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 576
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_768/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 768
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_960/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 960
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1152/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 1152
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1344/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 1344
+                    },
+                    {
+                        "url": "https://photos.zillowstatic.com/cc_ft_1536/ISqtf9xlpcwgph1000000000.webp",
+                        "width": 1536
+                    }
+                ]
+            },
+            "subjectType": "UNKNOWN"
+        }
+    ],
+    "schoolSearchUrl": {
+        "path": "/new-york-ny/schools/"
+    },
+    "schools": [
+        {
+            "assigned": null,
+            "distance": 0.3,
+            "grades": "K-6",
+            "isAssigned": true,
+            "level": "Elementary",
+            "link": "/queens-ny/schools/ps-99-kew-gardens-48168/",
+            "name": "Ps 99 Kew Gardens",
+            "rating": 7,
+            "size": 835,
+            "studentsPerTeacher": 15,
+            "totalCount": 1,
+            "type": "Public"
+        },
+        {
+            "assigned": null,
+            "distance": 1.9,
+            "grades": "6-8",
+            "isAssigned": true,
+            "level": "Middle",
+            "link": "/queens-ny/schools/jhs-190-russell-sage-48672/",
+            "name": "Jhs 190 Russell Sage",
+            "rating": 8,
+            "size": 1049,
+            "studentsPerTeacher": 15,
+            "totalCount": 1,
+            "type": "Public"
+        },
+        {
+            "assigned": null,
+            "distance": 1.5,
+            "grades": "9-12",
+            "isAssigned": true,
+            "level": "High",
+            "link": "/queens-ny/schools/hillcrest-high-school-48156/",
+            "name": "Hillcrest High School",
+            "rating": 3,
+            "size": 3320,
+            "studentsPerTeacher": 20,
+            "totalCount": 1,
+            "type": "Public"
+        }
+    ],
+    "state": "NY",
+    "stateSearchUrl": {
+        "path": "/ny/"
+    },
+    "staticMap": {
+        "sources": [
+            {
+                "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.70686,-73.8269&zoom=15&size=192x144&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=SWlp_SB8hMuaz-vghHjI9gtRMRk=",
+                "width": 192
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.70686,-73.8269&zoom=16&size=384x288&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=gDt36aZZy3s1aN7eZ13wOJM8VzA=",
+                "width": 384
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/staticmap?center=40.70686,-73.8269&zoom=17&size=768x576&maptype=roadmap&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&signature=YP4Hz29Y9TDpVuF0mDRBCuBnqsc=",
+                "width": 768
+            }
+        ]
+    },
+    "streetAddress": "8462 Austin St APT A5",
+    "streetView": {
+        "addressSources": [
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=8462%20Austin%20St%2C%20Kew%20Gardens%2C%20NY%2011415&size=192x72&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=jhWy6iBcgMI-3VsCfuCHMhzgZJU=",
+                "width": 192
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=8462%20Austin%20St%2C%20Kew%20Gardens%2C%20NY%2011415&size=384x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=jqlNNiAYsnA4aZp4hG2JrAj7kNw=",
+                "width": 384
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=8462%20Austin%20St%2C%20Kew%20Gardens%2C%20NY%2011415&size=768x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=F-FUAOhMOIyaYuocZp7l4LDpJpY=",
+                "width": 768
+            }
+        ],
+        "latLongSources": [
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=40.70686,-73.8269&size=192x72&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=LprESZ1UEe2wjs64wBQo0CLwwNs=",
+                "width": 192
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=40.70686,-73.8269&size=384x144&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=FhM8C-kSUz9yBFwzpCxZlDuhlLs=",
+                "width": 384
+            },
+            {
+                "url": "https://maps.googleapis.com/maps/api/streetview?location=40.70686,-73.8269&size=768x288&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=y1O237uxl8UAJwYP1AALpLVD_MY=",
+                "width": 768
+            }
+        ]
+    },
+    "streetViewMetadataUrlMediaWallAddress": "https://maps.googleapis.com/maps/api/streetview/metadata?location=8462%20Austin%20St%2C%20Kew%20Gardens%2C%20NY%2011415&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=azere7NJemcbsC5get5IzLpPAHU=",
+    "streetViewMetadataUrlMediaWallLatLong": "https://maps.googleapis.com/maps/api/streetview/metadata?location=40.70686,-73.8269&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&signature=BPHnQV1Z4QeEugUzIlvwWLc9iBU=",
+    "timeOnZillow": "21 days",
+    "tourPhotos": [
+        {
+            "url": "https://photos.zillowstatic.com/p_d/ISq9slfjar6k8i1000000000.jpg"
+        }
+    ],
+    "whatILove": null,
+    "zestimate": 453336,
+    "zipcode": "11415",
+    "zipcodeSearchUrl": {
+        "path": "/queens-new-york-ny-11415/"
+    },
+    "zpid": 32117220
+}
