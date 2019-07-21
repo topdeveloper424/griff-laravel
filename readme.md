@@ -50,6 +50,12 @@
 ![image](https://user-images.githubusercontent.com/40516126/61596374-9ef64e00-abd0-11e9-885d-e0334330ade5.png)
 
 
+## Search Houses
+
+![Screenshot_105](https://user-images.githubusercontent.com/40516126/61596387-e67cda00-abd0-11e9-96f3-045b63af208e.png)
+
+
+
 ## Live site
 
 http://ec2-18-219-135-252.us-east-2.compute.amazonaws.com
