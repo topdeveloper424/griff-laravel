@@ -44,6 +44,12 @@
 
 ``drop table property``
 
+
+## Landing page
+
+![image](https://user-images.githubusercontent.com/40516126/61596374-9ef64e00-abd0-11e9-885d-e0334330ade5.png)
+
+
 ## Live site
 
 http://ec2-18-219-135-252.us-east-2.compute.amazonaws.com
